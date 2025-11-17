@@ -38,7 +38,7 @@
 
 ### 💻 Cloud Platforms & Languages 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=python,java,aws,azure,html,css,js,python" />
 </p>
 
 ### 🗄️ Databases 
@@ -57,11 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-a143&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=dhanush-a143&theme=github-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=sivakumar330&theme=github-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-a143&theme=github_dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-a143&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sivakumar330&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-a143&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
