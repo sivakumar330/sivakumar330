@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=dhanush-a143&theme=github-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=sivakumar330&theme=github-dark&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" />
 </p>
