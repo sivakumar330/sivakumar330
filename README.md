@@ -43,7 +43,7 @@
 
 ### 🗄️ Databases 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools I Use
