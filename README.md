@@ -27,9 +27,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/dhanush_lonely_143" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://linkedin.com/in/dhanush-allimuthu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:dhanush7772k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/s-sivasow330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:sivakumarsow2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
