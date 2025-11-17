@@ -64,6 +64,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=dark&hide_border=false" />
+</p>
+
 
 ---
 
