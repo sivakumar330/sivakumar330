@@ -61,7 +61,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=sivakumar330&theme=github-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" width="300" />
 </p>
 
 
