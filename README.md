@@ -1,6 +1,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+Sivakumar+!;Cloud+Engineer;Enthusiastic+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/s-sivasow330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:sivakumarsow2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 <p align="center">
   <!-- Replace this image URL if it expires -->
   <img src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif" width="300" />
@@ -23,15 +29,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.linkedin.com/in/s-sivasow330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:sivakumarsow2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
 
 ## 🧰 Tech Stack
 
