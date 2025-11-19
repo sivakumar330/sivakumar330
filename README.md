@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=700&color=00FF88&background=00000000&center=true&vCenter=true&width=950&lines=>+S.+Sivakumar;>+Frontend+Engineer;>+UI%2FUX+Designer;>+Tech+Animator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" />
 </h1>
+
 
 
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
