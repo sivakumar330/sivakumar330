@@ -19,9 +19,10 @@
 </a>
 
 <!-- Email -->
-<a href="mailto:sivakumarsow2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sivakumarsow2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/your_instagram_here" target="_blank">
