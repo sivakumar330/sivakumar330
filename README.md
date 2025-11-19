@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" style="text-decoration:none;" />
 </h1>
 
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/assets/programmer.gif" width="350" />
+<img align="right" width="370" height="290" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIWHlOlwfA3KRIOtZ-CK_qX2qYql9TD3FLUirlppVCKFX9TKDOSQMbV3H5PLl1XzQSMU&usqp=CAU">
 
 
 
