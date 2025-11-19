@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" style="text-decoration:none;" />
 </h1>
 
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Ffingerprint&psig=AOvVaw2vrl9JHRGpc0N3VSRio0Fd&ust=1763657061112000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMijwtvU_pADFQAAAAAdAAAAABAz">
+<img align="right" width="370" height="290" src="https://assets-v2.lottiefiles.com/a/1607f9fe-1170-11ee-ba3e-5f79a05f7cd2/8Im9Ret0IP.gif">
 
 
 
