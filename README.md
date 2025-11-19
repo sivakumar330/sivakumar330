@@ -13,7 +13,7 @@
 -  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**
 -  𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚕𝚎𝚊𝚗, 𝚖𝚒𝚗𝚒𝚖𝚊𝚕 & 𝚐𝚕𝚘𝚠𝚒𝚗𝚐 UI
 -  𝚂𝚘𝚌𝚒𝚊𝚕 𝙿𝚛𝚎𝚜𝚎𝚗𝚌𝚎
--  <!-- LinkedIn -->
+ <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sivakumar330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
