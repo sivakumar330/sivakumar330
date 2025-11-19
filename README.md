@@ -3,26 +3,29 @@
 </h1>
 
 
-
-
-
-
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-
-  
 -  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 **HTML , CSS , JS**
-   <img align="right" width="270" height="290"  src="https://cdn.dribbble.com/userupload/21936723/file/original-4601804b8045ce5ed211624f5092eee8.gif">
+   <img align="right" width="270" height="290" src="https://cdn.dribbble.com/userupload/21936723/file/original-4601804b8045ce5ed211624f5092eee8.gif">
+
 -  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
 -  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**
 -  𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚕𝚎𝚊𝚗, 𝚖𝚒𝚗𝚒𝚖𝚊𝚕 & 𝚐𝚕𝚘𝚠𝚒𝚗𝚐 UI
--  𝙴𝚖𝚊𝚒𝚕  [Contact](sivakumarsow2004@gmail.com)
--  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 [𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://devzone-8c68c.web.app/) 
--  𝙲𝚘𝚗𝚗𝚎𝚌𝚝: [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/sivakumar330/)
-  
 
+-  𝙴𝚖𝚊𝚒𝚕  
+   <a href="mailto:sivakumarsow2004@gmail.com" style="text-decoration:none;">Contact</a>
+
+-  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢  
+   <a href="https://devzone-8c68c.web.app/" style="text-decoration:none;">𝙿𝚘𝚛𝚝𝚘𝚏𝚘𝚕𝚒𝚘</a>
+
+-  𝙲𝚘𝚗𝚗𝚎𝚌𝚝:  
+   <a href="https://www.linkedin.com/in/sivakumar330/" style="text-decoration:none;">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>
 
 ---
+
+
+
+
 
 ###  𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 <p align="center">
