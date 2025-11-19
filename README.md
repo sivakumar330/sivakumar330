@@ -1,7 +1,7 @@
-<!-- Animated GitHub Profile README -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=45&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&repeat=true&width=1000&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Creative+Coder;Animation+Enthusiast" />
 </h1>
+
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 -  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 - **HTML , CSS , JS** 
 -  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
