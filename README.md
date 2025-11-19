@@ -12,14 +12,14 @@
 
 ---
 
-###  𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+###  𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,bootstrap,figma,git,github,vscode,firebase" />
 </p>
 
 ---
 
-### 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+### 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=radical" height="180em" />
@@ -30,21 +30,21 @@
 
 ---
 
-### 𝐃𝐞𝐯 𝐒𝐭𝐚𝐭𝐬
+### 𝗗𝗲𝘃 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sivakumar330?ext=contest&theme=dark" />
 </p>
 
 ---
 
-### 𝐐𝐮𝐨𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐚𝐲
+### 𝗤𝘂𝗼𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗮𝘆
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-### 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
+### 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗦𝗻𝗮𝗸𝗲
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
