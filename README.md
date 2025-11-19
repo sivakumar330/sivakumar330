@@ -20,7 +20,7 @@
 
 <!-- Email -->
 <a href="mailto:sivakumarsow2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
