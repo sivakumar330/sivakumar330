@@ -3,6 +3,18 @@
 </h1>
 
 <img align="right" width="370" height="290" src="https://lottie.host/embed/4a3c2645-f5a1-4f64-93e5-fc02c3c5bfe4/JJ4NI6YAqR.lottie">
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
+<dotlottie-wc
+  src="https://lottie.host/4a3c2645-f5a1-4f64-93e5-fc02c3c5bfe4/JJ4NI6YAqR.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
+
 
 
 
