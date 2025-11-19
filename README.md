@@ -15,12 +15,8 @@
    <img align="right" width="270" height="290"  src="https://cdn.dribbble.com/userupload/21936723/file/original-4601804b8045ce5ed211624f5092eee8.gif">
 -  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
 -  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**
--  HI
--  <a href="https://www.linkedin.com/in/sivakumar330/" style="text-decoration:none;">
-  🔗 LinkedIn
-</a>
-
--  Email [Contact](sivakumarsow2004@gmail.com)
+-  𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚕𝚎𝚊𝚗, 𝚖𝚒𝚗𝚒𝚖𝚊𝚕 & 𝚐𝚕𝚘𝚠𝚒𝚗𝚐 UI
+-  𝙴𝚖𝚊𝚒𝚕  [Contact](sivakumarsow2004@gmail.com)
 -  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 [𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://devzone-8c68c.web.app/) 
 -  𝙲𝚘𝚗𝚗𝚎𝚌𝚝: [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/sivakumar330/)
   
