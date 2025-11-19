@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" style="text-decoration:none;" />
 </h1>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/assets/programmer.gif" width="350" />
+
 
 
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
