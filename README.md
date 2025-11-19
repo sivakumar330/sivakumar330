@@ -1,94 +1,50 @@
+<!-- Animated GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+Sivakumar+!;Cloud+Engineer;Enthusiastic+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation"/>
-</h1>
-<p align="center">
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"  width="40"/></a>
-  <a href="https://www.linkedin.com/in/s-sivasow330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:sivakumarsow2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-</p>
-<p align="center">
-  <!-- Replace this image URL if it expires -->
-  <img src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif" width="300" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=700&color=00C2FF&center=true&vCenter=true&width=680&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Animation+Enthusiast" />
+</h1> 
 
-<h3 align="center">
-  <strong>🚀 Junior Cloud Engineer  | Focused on Cloud Technologies ⚙️</strong>
-</h3>
+### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+-  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 **HTML, CSS, JS**  
+-  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
+-  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**  
+-  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 [𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://devzone-4e0a7.web.app/) 
+-  𝙲𝚘𝚗𝚗𝚎𝚌𝚝: [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/sivakumar330/)
 
 ---
 
-## 🧠 About Me
-
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3htN3VqMDYxbjJvMTJ1b245ZzRiaXZheWd5cXRzd2x1OXQ1OGg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy.gif" width= "270" alt="Code Animation" />
-
-- 🔭 I build blazing-fast UIs and secure APIs  
-- 🧪 Currently learning : `Cloud Computing`, `AWS`, `DevOps`  
-- 💬 Ask me about: `AWS`, `AZURE` 
-- 🧠 Fun Fact: I automate everything — "I Once explained cloud computing using actual clouds"
-
----
-
-
-## 🧰 Tech Stack
-
-### 💻 Cloud Platforms & Languages 
+###  𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,aws,azure,html,css,js,python" />
-</p>
-
-### 🗄️ Databases 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,,docker,aws" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sivakumar330&theme=github-dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&theme=github_dark&hide_border=false&layout=compact" width="400" />
-</p>
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivakumar330&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,bootstrap,figma,git,github,vscode,firebase" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
+### 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" width="600" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=radical" height="180em" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" width="600" height="400"/>
 </p>
 
 ---
 
-## ✍️ Quote of the Day
+### 𝐃𝐞𝐯 𝐒𝐭𝐚𝐭𝐬
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sivakumar330?ext=contest&theme=dark" />
+</p>
 
+---
+
+### 𝐐𝐮𝐨𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐚𝐲
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 🐍 Snake Eating My Contribution
-
+### 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -96,6 +52,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
-
----
 
