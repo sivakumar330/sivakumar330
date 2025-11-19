@@ -6,23 +6,15 @@
 
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-<div style="font-family:'Nunito', sans-serif;">
-
--  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 <a href="https://devzone-8c68c.web.app/" style="text-decoration:none;">𝙿𝚘𝚛𝚝𝚘𝚏𝚘𝚕𝚒𝚘</a>
-
--  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 <b>HTML , CSS , JS</b>
-   <img align="right" width="350" height="290" src="https://cdn.dribbble.com/userupload/21936723/file/original-4601804b8045ce5ed211624f5092eee8.gif">
-
--  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 <b>MERN Stack</b> & <b>AI Integrations</b>  
-
--  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 <b>Glowing UI Themes & Smooth Animations</b>
-
+-  𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 [𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://devzone-8c68c.web.app/) 
+-  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 **HTML , CSS , JS**
+   <img align="right" width="350" height="290"  src="https://cdn.dribbble.com/userupload/21936723/file/original-4601804b8045ce5ed211624f5092eee8.gif">
+   
+-  𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
+-  𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**
 -  𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚕𝚎𝚊𝚗, 𝚖𝚒𝚗𝚒𝚖𝚊𝚕 & 𝚐𝚕𝚘𝚠𝚒𝚗𝚐 UI
-
--  <b>𝚂𝚘𝚌𝚒𝚊𝚕 𝙿𝚛𝚎𝚜𝚎𝚗𝚌𝚎</b>
-
-</div>
-
+-  𝚂𝚘𝚌𝚒𝚊𝚕 𝙿𝚛𝚎𝚜𝚎𝚗𝚌𝚎
+  
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sivakumar330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
