@@ -1,6 +1,5 @@
-### g
-<h1 align="center" style="text-decoration:none;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" style="text-decoration:none;" />
 </h1>
 
 
