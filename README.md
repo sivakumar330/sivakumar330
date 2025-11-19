@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=48&duration=2200&pause=600&color=C77DFF&center=true&vCenter=true&width=980&lines=S.+Sivakumar;Crafting+Modern+Frontend+Experiences;Designing+Clean+UI%2FUX;Bringing+Animation+to+Life" style="text-decoration:none;" />
 </h1>
 
-<img align="right" width="370" height="290" src="https://cs.iitgn.ac.in/images/csegif.gif">
+<img align="right" width="370" height="290" src="[https://cs.iitgn.ac.in/images/csegif.gif](https://app.lottiefiles.com/share/e5a19206-e795-40da-ab43-30c49d4b84a8)">
 
 
 
