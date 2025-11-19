@@ -1,7 +1,8 @@
 <!-- Animated GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=700&color=00C2FF&center=true&vCenter=true&width=680&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Animation+Enthusiast" size="40"/>
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=700&color=00C2FF&center=true&vCenter=true&width=900&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Animation+Enthusiast" />
+</h1>
+ 
 
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 -  𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 **HTML, CSS, JS**  
